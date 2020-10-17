@@ -1,4 +1,4 @@
-###  Andressa Carolina  da Silva
+###  Sou Andressa Carolina e sou estudante de ADS
 ### Sobre  mim: 
 -  🔭 Sou apaixonada em programação.
 - 🌱  Atualmente estou aprendendo sobre programação WEB
