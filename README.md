@@ -4,7 +4,7 @@
 <br>
 <h5>Sobre Mim: </h5>
 
-🎓Graduando em Análise e Desenvolvimento de Software | 2º período
+🎓Graduando em Análise e Desenvolvimento de Sistema | 2º período
 
 📚 Atualmente estudo as linguagens HTML, CSS, Javascript, PHP e Python
 
